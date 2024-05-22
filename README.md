@@ -7,5 +7,4 @@
 
 ## 프로젝트 목록
 ### IT융합학부
-  1. BCCD Detector <링크>
-     넹?
+  1. homepage https://jeong-su-hyeon.github.io/Homepage_test/
